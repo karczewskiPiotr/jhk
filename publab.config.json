@@ -1,0 +1,20 @@
+{
+  "id": "79032e6d-8995-4302-ba3e-bab2ed596b12",
+  "collaborators": [
+    {
+      "id": "4daf2ec0-b707-4bb2-809d-0ed6234753ce",
+      "role": "editor",
+      "githubUsername": "karczewskiPiotr"
+    }
+  ],
+  "owner": "karczewskiPiotr",
+  "description": "",
+  "name": "jhk",
+  "packageManager": "npm",
+  "useSass": false,
+  "useTypescript": true,
+  "multilingual": false,
+  "creationDate": 1664892330186,
+  "tags": [],
+  "snippets": []
+}
